@@ -17,4 +17,4 @@ A modern, responsive developer portfolio built with pure HTML, CSS, and JavaScri
 - JavaScript (ES6+)
 
 ## Live Demo
-[Fariha's Portfolio](https://farihakarim12.github.io/ApexcifyTechnologys_ApexcifyTechnologysWebsite/)
+[Fariha's Portfolio](https://farihakarim12.github.io/ApexcifyTechnologys_MyPortfolio/)
