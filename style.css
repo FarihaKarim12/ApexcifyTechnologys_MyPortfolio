@@ -1068,7 +1068,9 @@ body.light .theme-toggle .icon-moon{
   }
 
   .hero{
-    padding: calc(var(--nav-h) + 0.25rem) 1rem 3rem;
+    min-height: unset;
+    justify-content: flex-start;
+    padding: calc(var(--nav-h) + 1rem) 1rem 3rem;
   }
 
   .hero-bg-text{
